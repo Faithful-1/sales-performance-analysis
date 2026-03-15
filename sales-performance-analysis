@@ -1,0 +1,12 @@
+sales-performance-analysis
+│
+├── data
+│   └── sales_data.csv
+│
+├── notebooks
+│   └── sales_analysis.ipynb
+│
+├── dashboard
+│   └── powerbi_dashboard.pbix
+│
+└── README.md
